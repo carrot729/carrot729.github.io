@@ -16,11 +16,11 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+locale: zh-CN
+title: "博客"
+description: "Carrot的私人博客"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://carrot729.github.io/blog"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -88,9 +88,9 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
+  name: "carrot"
+  picture: "/images/author.jpg"
+  email: "hnf729@outlook.com"
   twitter:
   links:
     - title:
