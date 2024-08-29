@@ -5,3 +5,4 @@ git commit -m "%commit%"
 echo pushing......
 git push origin master
 echo done
+pause
