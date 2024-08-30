@@ -1,8 +1,8 @@
 @echo off
-git add .
+..\\..\\PortableGit\\bin\\git.exe add .
 set /p commit="add commit:"
-git commit -m "%commit%"
+..\\..\\PortableGit\\bin\\git.exe commit -m "%commit%"
 echo pushing......
-git push origin main
+..\\..\\PortableGit\\bin\\git.exe push origin main
 echo done
 pause
