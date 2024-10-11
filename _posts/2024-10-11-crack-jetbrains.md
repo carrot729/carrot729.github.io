@@ -1,5 +1,5 @@
 ---
-layout:ja-netfilter
+layout:post
 title:用ja-netfilter破解Jetbrains全家桶
 ---
 
