@@ -1,7 +1,6 @@
 @echo off
 git.exe add .
-set /p commit="add commit:"
-git.exe commit -m "%commit%"
+git.exe commit -m "%TIME%"
 echo pushing......
 git.exe push origin main
 echo done
