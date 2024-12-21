@@ -102,3 +102,15 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+comments_engine: giscus
+
+giscus:
+  repo: 'carrot729/blog'
+  repo_id: 'R_kgDOMoeNjA'
+  category: 'Announcements'
+  category_id: 'DIC_kwDOMoeNjM4ClZUB'
+  mapping: 'pathname'
+  input_position: 'top'
+  theme: 'preferred_color_scheme'
+  lang: "zh-CN"
